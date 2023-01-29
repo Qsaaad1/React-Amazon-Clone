@@ -1,0 +1,6 @@
+.footer_link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f0c14b;
+}
