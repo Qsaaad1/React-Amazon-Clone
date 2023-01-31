@@ -1,3 +1,3 @@
 Amazon Clone App using ReactJS & NodeJS with Context API and deployed on Firebase...
 
-Deployment Site - https://react--clone-25e09.web.app/
+Deployed on - https://react--clone-25e09.web.app/
